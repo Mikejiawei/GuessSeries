@@ -1,5 +1,6 @@
-Tommy 4 3
-Jack 8 7
+Tommy 10 10
+Gaus 2 2
+Jack 9 8
 Marry 6 3
 Tony 6 5
 Fancy 3 3

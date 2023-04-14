@@ -21,6 +21,9 @@
     <ClCompile Include="User.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="NumSeq.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="seq_data.txt">
@@ -29,6 +32,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="User.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NumSeq.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
