@@ -1,0 +1,6 @@
+Tommy 4 3
+Jack 8 7
+Marry 6 3
+Tony 6 5
+Fancy 3 3
+Kitty 12 10
