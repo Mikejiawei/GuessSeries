@@ -99,9 +99,12 @@ int main()
 	int a1, a2;
 	int random_seq;
 
+	// 开启god模式
 	Test();
 	cout << "=================" << endl;
-
+	//
+	
+	//开始游戏
 	cout << "Welcome to GuessSeries Game! Please Enter your Name\n";
 	cin >> usr_name;
 	// 读取【创建】文件
@@ -182,7 +185,7 @@ int main()
 	ofstream outfile("seq_data.txt", ios_base::trunc);
 	WriteFile(outfile, usr_name, num_tries_W, num_right, usr_list);
 	// 显示文件内容
-	DisplayRecord(usr_list, usr_name, num_right, num_tries_W);
+	DisplayRecord(usr_list, usr_name, num_tries_W, num_right );
 }
 
 
